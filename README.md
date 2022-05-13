@@ -1,6 +1,6 @@
 ### Hi there! 👋.
 
-## I'm a Developer and Fresh Graduade from Computer Engineering
+## I'm a Developer and Fresh Graduate from Computer Engineering
 - 🔭 I’m currently looking for a job to help my career
 - 🌱 I’m currently learning Flutter
 - 🎯 Goals: Make money, add projects every month, and fatten my body 😁
