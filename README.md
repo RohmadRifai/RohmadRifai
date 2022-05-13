@@ -7,12 +7,12 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love reading and gaming
 
-### Connect with me:
+### 🤝 Connect with me:
 
 <a href = "mailto:rohmad04rifai@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href = "https://www.linkedin.com/in/rohmad-rifai/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-### Languages and Tools:
+### 👨‍💻 Languages and Tools:
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /><span> </span>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
