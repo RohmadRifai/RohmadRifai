@@ -4,7 +4,7 @@
 - 🔭 I’m currently looking for a job to help my career
 - 🌱 I’m currently learning Flutter
 - 🎯 Goals: Make money, add projects every month, and fatten my body 😁
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love reading and gaming
 
 ### 🤝 Connect with me:
